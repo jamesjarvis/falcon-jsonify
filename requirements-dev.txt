@@ -1,6 +1,6 @@
 args==0.1.0
 clint==0.5.1
-falcon==1.1.0
+falcon==2.0.0
 pandoc==1.0.0b2
 pkginfo==1.4.1
 ply==3.9
