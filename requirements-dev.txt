@@ -9,4 +9,4 @@ python-mimeparse==1.6.0
 requests==2.12.1
 requests-toolbelt==0.7.0
 six==1.10.0
-twine==1.8.1
+twine==3.3.0
